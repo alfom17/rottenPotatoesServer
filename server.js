@@ -1,3 +1,6 @@
+require("dotenv").config()
+
+
 // ES5 require en vez de import
 const jsonServer = require("json-server")
 
@@ -19,7 +22,7 @@ const router = jsonServer.router("db.json") // automaticamente creará TODOS los
 server.use(router)
 
 //* declarar un puerto para que el cliente acceda al servidor
-const PORT = 5005;
+const PORT = process.env.PORT || 5005;
 
 //* poner a andar y escuchar el servidor
 server.listen(PORT, () => {
