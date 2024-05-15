@@ -1,4 +1,4 @@
-require("dotenv").config()
+require("dotenv").config();
 
 
 // ES5 require en vez de import
