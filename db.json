@@ -1,19 +1,133 @@
-{"reviews": [
+{
+  "reviews": [
     {
-    "gameId": "gameId",
-    "gameName": "gameName",
-    "review": "..",
-    "rating": 0,
-    "userName": "userName"
-     
-    }
-    ],
-"completions":[
+      "gameId": "gameId",
+      "name": "SFSDF",
+      "comment": "SFDSD",
+      "ratings": "on",
+      "id": 1
+    },
     {
-    "gameId":"gameId",
-    "GameName": "gameName",
-    "timeComplete": 0,
-    "userName": "userName"
- 
+      "gameId": "gameId",
+      "name": "YYTYTRT",
+      "comment": "RTYRTY",
+      "ratings": "on",
+      "id": 2
+    },
+    {
+      "gameId": "gameId",
+      "name": "MANOLO",
+      "comment": "MU BUENNO",
+      "ratings": "on",
+      "id": 3
+    },
+    {
+      "gameId": "290856",
+      "name": "MANOLO",
+      "comment": "MU BUENNO",
+      "ratings": "on",
+      "id": 4
+    },
+    {
+      "gameId": "4291",
+      "name": "PATATA",
+      "comment": "CD",
+      "ratings": "on",
+      "id": 5
+    },
+    {
+      "gameId": "3498",
+      "name": "",
+      "comment": "",
+      "ratings": "",
+      "id": 6
+    },
+    {
+      "gameId": "3498",
+      "name": "ALGO",
+      "comment": "CHIQUITITO",
+      "ratings": "on",
+      "id": 7
+    },
+    {
+      "gameId": "3498",
+      "name": "FA",
+      "comment": "AF",
+      "ratings": "on",
+      "id": 8
+    },
+    {
+      "gameId": "4200",
+      "name": "CUIDADO",
+      "comment": "EFSEF",
+      "ratings": "on",
+      "id": 9
+    },
+    {
+      "gameId": "4200",
+      "name": "GS",
+      "comment": "GSG",
+      "ratings": "on",
+      "id": 10
+    },
+    {
+      "gameId": "4200",
+      "name": "MANOLO ESCOBAR",
+      "comment": "GOOD CHIT",
+      "ratings": "on",
+      "id": 11
+    },
+    {
+      "gameId": "4200",
+      "name": "MANOLO GARCIA",
+      "comment": "COMO UN BURRO ATADO",
+      "ratings": "on",
+      "id": 12
+    },
+    {
+      "gameId": "4200",
+      "name": "MANOLO PABLO ESCOBAR",
+      "comment": "PLATA O PLOMO",
+      "ratings": "on",
+      "id": 13
+    },
+    {
+      "gameId": "5286",
+      "name": "XAVI",
+      "comment": "GOOD TITIS",
+      "ratings": "on",
+      "id": 14
+    },
+    {
+      "gameId": "5286",
+      "name": "EL FARY",
+      "comment": "LARA COCK",
+      "ratings": "on",
+      "id": 15
+    },
+    {
+      "gameId": "5286",
+      "name": "PACO MEGOMAS",
+      "comment": "BUEN JUEGO",
+      "ratings": "on",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "gameId": "3498",
+      "name": "MANOLO",
+      "comment": "SPACE",
+      "ratings": "on",
+      "id": 18
+    },
+    {
+      "name": "cuidado",
+      "comment": "fghfhhf",
+      "ratings": "on",
+      "id": 19
     }
-    ]}
+  ],
+  "completions": []
+}
