@@ -1,0 +1,21 @@
+{
+    "reviews":[
+        {
+            "gameId": "gameId",
+            "gameName": "gameName",
+            "review": "..",
+            "rating": null, 
+            "userName": "userName" 
+        }
+    ],
+
+    "completions":[
+        {
+            "gameId":"gameId",
+            "gameName": "gameName",
+            "timeComplete": null,
+            "userName": "userName"
+        }
+    ]
+
+}
